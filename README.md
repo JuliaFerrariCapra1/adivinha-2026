@@ -1,2 +1,2 @@
-# adivinha-2026
-Projeto de games - 2° Áudio e Vídeo - Turma: 2026
+# Jogo de Adivinhação
+Disciplina de Projeto de games, ministrada para a turmado 2°ano do curso técnico Integrado em Áudio e Vídeo. Instituto Federal de Goiás, Campus Cidade de Goiás -2026
